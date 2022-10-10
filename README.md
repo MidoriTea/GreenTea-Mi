@@ -1,5 +1,7 @@
 # Hello you all.
-- 👋 I’m @GreenTea-Mi
+- 👋 I’m @GreenTea-Mi from Japan.
+- 🔰 I'm beginner just started github.<br>
+    _o te ya wa ra ka ni_
 - 🛠 I'm Discord Bot developer.
 - 🎮 I'm enjoy to play games, to write code for various languages, and my life.
 
