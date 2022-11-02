@@ -5,15 +5,52 @@
 - 🛠 I'm Discord Bot developer.
 - 🎮 I'm enjoy to play games, to write code for various languages, and my life.
 
-## Also doing :
 ```cs
 using UnityEngine;
+uging csc.exe;
+using Microsoft.VisualStudio;
+using VisualStudio.Code;
 using Node.js;
-using csc.exe;
-using MVS;
-```
 
-<!---
-GreenTea-Mi/GreenTea-Mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+public class MyStatus
+{
+	public static string name = "Midori-tea";
+	public Mood oneDayMood = Mood.GOOD;
+}
+
+public enum Mood
+{
+	/// <summary>
+	/// 😑
+	/// </summary>
+	NULL = 0,
+	/// <summary>
+	/// (_　_)。゜zｚＺ
+	/// </summary>
+	SLEEPY = 1,
+	/// <summary>
+	/// (˘･_･˘)
+	/// </summary> 
+	LONELY = 2,
+	/// <summary>
+	/// Hmm... Good.
+	/// </summary>
+	GOOD = 3,
+	/// <summary>
+	/// (｡･∀･)ﾉﾞ
+	/// </summary>
+	VERY_GOOD = 4,
+	/// <summary>
+	/// ヾ(•ω•`)o
+	/// </summary>
+	HAPPY = 5,
+	/// <summary>
+	/// o((>ω< ))o
+	/// </summary>
+	BURST = 6,
+	/// <summary>
+	/// 🔥🔥🔥
+	/// </summary>
+	NYAN = 7,
+}
+```
