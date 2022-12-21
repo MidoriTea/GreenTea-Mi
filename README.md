@@ -7,7 +7,6 @@
 
 ```cs
 using UnityEngine;
-using csc.exe;
 using Microsoft.VisualStudio;
 using VisualStudio.Code;
 using Node.js;
